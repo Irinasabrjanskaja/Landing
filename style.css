@@ -1,0 +1,48 @@
+body{
+	background: #FFC15E; 
+	color: #8158FC; 
+	font-size: 20px;
+	font-family: ariel;
+	margin:0 !important;
+}
+
+#banner {
+	 background-image: url("https://images.unsplash.com/photo-1540224485413-4c7939106f3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1469&q=80");
+background-size: cover;
+padding: 350px;
+color: black;
+
+}
+	 
+h1{
+	font-family: courier 
+	color: #8158FC;
+	font-weight: :lighter;
+	font-size: 50px;
+}
+
+p{
+	color: black;
+}
+
+h2{
+	font-family: courier
+	color: #8158FC;
+	font-weight: :lighter;
+	font-size: 15px;
+}
+
+a {
+  color: white;
+
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+.fa-facebook {color: blue;}
+
+
+
+
